@@ -1,4 +1,4 @@
 # Encrypt-application-data-1
-Encrypt data using AES . symmetric cryptosystems
+use C# to encrypt data with AES before saving to database
 
 More details: N18DCAT100_TranQuocTruong_Lab4.docx
